@@ -10,7 +10,7 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href=" " target="_blank" rel="noreferrer">
+          <a href=" " target="_blank" rel="noopener noreferrer">
             {" "}
             Michelle Jeppesen
           </a>{" "}
@@ -18,9 +18,9 @@ export default function App() {
           <a
             href="https://github.com/michellejeppesen/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
-            open-sourced on Github
+            open-sourced on Github.
           </a>
         </footer>
       </div>
